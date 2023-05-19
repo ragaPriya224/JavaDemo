@@ -1,3 +1,5 @@
+--------------------------------------------------DATA TYPES ----------------------------------------------------
+
 ![image](https://github.com/ragaPriya224/JavaDemo/assets/90038032/34020559-fcae-41a1-b2bd-d38018a4b614)
 
 ------------------------------------------------------------------------------------------------------
@@ -26,9 +28,29 @@
 
 ------------------------------------------------------------------------------------------------------
 
+byte <short <int< long 
+
+-----------------------------------------------------------------------------------------------------------
+
+Team, kindly refer the below links:
+
+JAVA primitive types: https://www.youtube.com/watch?v=Rilk5TayNbI&list=PLrKBFf87Cy9CHAyhX9l0rhktvg3pCG5R5&index=12
+
+https://www.geeksforgeeks.org/java-identifiers/?ref=lbp
+
+https://www.geeksforgeeks.org/variables-in-java/?ref=lbp
+
+https://www.w3schools.com/java/java_ref_keywords.asp
+
+---------------------------------------------------------------------------------------------------------------
+
 TASK of datatypes:
 
+TEAM, TRY USING ALL 8 DATA TYPES IN CODE. 
+
 https://www.w3schools.com/java/exercise.asp?filename=exercise_data_types1
+
+https://www.w3schools.com/java/exercise.asp?filename=exercise_data_types2
 
 ![image](https://github.com/ragaPriya224/JavaDemo/assets/90038032/61b34b11-d952-4d5f-9990-af5f02f557f2)
 
@@ -61,6 +83,44 @@ BASIC VIDEO: https://www.youtube.com/watch?v=-OH3d2Zu_gA&list=PLrKBFf87Cy9CHAyhX
 SYNTAX:      
 
       type []var-name = new type [size];
+      
+FOR CODE VISUALIZATION, TRY THIS LINK :  https://pythontutor.com/java.html
+
+![image](https://github.com/ragaPriya224/JavaDemo/assets/90038032/2f0c4dca-5bee-47db-bbe8-207d7b49f191)
+
+----------------------------------------------------------------------------------------------------
+
+![image](https://github.com/ragaPriya224/JavaDemo/assets/90038032/240ec56a-6837-42fb-b9a1-17fd86370953)
+
+----------------------------------------------------------------------------------------------------
+
+![image](https://github.com/ragaPriya224/JavaDemo/assets/90038032/b25b1297-b44f-4ad2-ba49-95e4c4ab5fdc)
+
+----------------------------------------------------------------------------------------------------
+
+![image](https://github.com/ragaPriya224/JavaDemo/assets/90038032/082c9241-42e5-42b7-99d6-742f53347038)
+
+----------------------------------------------------------------------------------------------------
+
+![image](https://github.com/ragaPriya224/JavaDemo/assets/90038032/f0440356-058b-43ec-b007-4a88b013d502)
+
+----------------------------------------------------------------------------------------------------
+
+![image](https://github.com/ragaPriya224/JavaDemo/assets/90038032/f5cc7586-6faa-4fc8-b47d-565853798de7)
+
+----------------------------------------------------------------------------------------------------
+
+![image](https://github.com/ragaPriya224/JavaDemo/assets/90038032/9b50eaae-cd53-4b4d-91d2-2cb7d90d910f)
+
+----------------------------------------------------------------------------------------------------
+
+![image](https://github.com/ragaPriya224/JavaDemo/assets/90038032/8eaf420c-db3f-4a0f-b86f-3de94be98471)
+
+----------------------------------------------------------------------------------------------------
+
+REFER LINK: https://www.w3schools.com/java/java_arrays.asp
+
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -77,56 +137,6 @@ SYNTAX:
 
 
 
-
-
-
-
-
-
-
-
-
-
-byte <short <int< long 
-
-JAVA primitive types: https://www.youtube.com/watch?v=Rilk5TayNbI&list=PLrKBFf87Cy9CHAyhX9l0rhktvg3pCG5R5&index=12
-
-
-array syntax: type []var-name = new type [size];
-
-for code visualization: https://pythontutor.com/visualize.html#mode=edit
-
-y array: https://www.youtube.com/watch?v=-OH3d2Zu_gA&list=PLrKBFf87Cy9CHAyhX9l0rhktvg3pCG5R5&index=15
-
-ref: https://www.w3schools.com/java/java_arrays.asp
-
-TEAM, TRY USING ALL 8 DATA TYPES IN CODE. 
-
-https://www.w3schools.com/java/exercise.asp?filename=exercise_data_types1
-
-https://www.w3schools.com/java/exercise.asp?filename=exercise_data_types2
-
-Team, kindly refer the below links:
-
-https://www.geeksforgeeks.org/java-identifiers/?ref=lbp
-
-https://www.geeksforgeeks.org/variables-in-java/?ref=lbp
-
-https://www.w3schools.com/java/java_ref_keywords.asp
-
-Team, kindly complete the following exercise:
-
-https://www.w3schools.com/java/exercise.asp?filename=exercise_data_types1
-
-TASKS:
-
-Write a Java program to print an int, a double and a char on screen.
-
-Write a program to print the product of the numbers 8.2 and 6.
-
-Write a program to add an integer variable having value 5 and a double variable having value 6.2.
-
-Write a program to find the square of the number 3.9.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
