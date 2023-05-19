@@ -58,7 +58,9 @@ BASIC VIDEO: https://www.youtube.com/watch?v=-OH3d2Zu_gA&list=PLrKBFf87Cy9CHAyhX
 
 ------------------------------------------------------------------------------------------------------
 
-SYNTAX:             type []var-name = new type [size];
+SYNTAX:      
+
+      type []var-name = new type [size];
 
 
 
