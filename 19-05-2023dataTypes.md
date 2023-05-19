@@ -12,7 +12,7 @@
 
 ------------------------------------------------------------------------------------------------------
 
-https://github.com/ragaPriya224/JavaDemo/blob/master/array_introjpg.jpg
+https://github.com/ragaPriya224/JavaDemo/blob/master/variable_java_intro_mp4.mp4
 
 ----------------------------------------------------------------------------------------------------------
 
@@ -75,6 +75,10 @@ https://www.w3schools.com/java/java_comments.asp
 Y ARRAY: https://github.com/ragaPriya224/JavaDemo/blob/master/Y_ARRAY_BASIC.pdf
 
 ------------------------------------------------------------------------------------------------------
+
+https://github.com/ragaPriya224/JavaDemo/blob/master/array_introjpg.jpg
+
+-------------------------------------------------------------------------------------------------------
 
 BASIC VIDEO: https://www.youtube.com/watch?v=-OH3d2Zu_gA&list=PLrKBFf87Cy9CHAyhX9l0rhktvg3pCG5R5&index=15
 
